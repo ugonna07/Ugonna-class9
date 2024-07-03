@@ -7,6 +7,7 @@
 public class CallingMethodsInSameClass
 {
 	public static void main(String[] args) {
+		System.out.println(".(holooooola)");
 		printOne();
 		printOne();
 		printTwo();
